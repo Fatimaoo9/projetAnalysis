@@ -1,7 +1,7 @@
 # Project-3
 # Twitter Sentiment Analysis 
 
-## Project Description
+## Description
 This project aims to analyze the sentiments of Twitter tweets related to airlines. By using a dataset of classified tweets, we seek to understand how users interact with the services of these companies by identifying positive, negative, and neutral sentiments.
 
 ## Libraries Used
